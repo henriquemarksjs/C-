@@ -1,0 +1,6 @@
+C:\Users\Henrique Diniz\Desktop\CSharpAll\DataTypesConvertions\DataTypesConvertions\bin\Debug\DataTypesConvertions.exe.config
+C:\Users\Henrique Diniz\Desktop\CSharpAll\DataTypesConvertions\DataTypesConvertions\bin\Debug\DataTypesConvertions.exe
+C:\Users\Henrique Diniz\Desktop\CSharpAll\DataTypesConvertions\DataTypesConvertions\bin\Debug\DataTypesConvertions.pdb
+C:\Users\Henrique Diniz\Desktop\CSharpAll\DataTypesConvertions\DataTypesConvertions\obj\Debug\DataTypesConvertions.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Diniz\Desktop\CSharpAll\DataTypesConvertions\DataTypesConvertions\obj\Debug\DataTypesConvertions.exe
+C:\Users\Henrique Diniz\Desktop\CSharpAll\DataTypesConvertions\DataTypesConvertions\obj\Debug\DataTypesConvertions.pdb

@@ -1,0 +1,7 @@
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Inputs\Inputs\bin\Debug\Inputs.exe.config
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Inputs\Inputs\bin\Debug\Inputs.exe
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Inputs\Inputs\bin\Debug\Inputs.pdb
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Inputs\Inputs\obj\Debug\Inputs.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Inputs\Inputs\obj\Debug\Inputs.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Inputs\Inputs\obj\Debug\Inputs.exe
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Inputs\Inputs\obj\Debug\Inputs.pdb

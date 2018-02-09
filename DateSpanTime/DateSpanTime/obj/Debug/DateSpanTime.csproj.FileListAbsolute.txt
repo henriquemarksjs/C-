@@ -1,0 +1,7 @@
+C:\Users\Henrique Diniz\Desktop\CSharpAll\DateSpanTime\DateSpanTime\bin\Debug\DateSpanTime.exe.config
+C:\Users\Henrique Diniz\Desktop\CSharpAll\DateSpanTime\DateSpanTime\bin\Debug\DateSpanTime.exe
+C:\Users\Henrique Diniz\Desktop\CSharpAll\DateSpanTime\DateSpanTime\bin\Debug\DateSpanTime.pdb
+C:\Users\Henrique Diniz\Desktop\CSharpAll\DateSpanTime\DateSpanTime\obj\Debug\DateSpanTime.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Diniz\Desktop\CSharpAll\DateSpanTime\DateSpanTime\obj\Debug\DateSpanTime.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Diniz\Desktop\CSharpAll\DateSpanTime\DateSpanTime\obj\Debug\DateSpanTime.exe
+C:\Users\Henrique Diniz\Desktop\CSharpAll\DateSpanTime\DateSpanTime\obj\Debug\DateSpanTime.pdb

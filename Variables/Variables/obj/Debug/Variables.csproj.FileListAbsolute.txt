@@ -1,0 +1,7 @@
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Variables\Variables\obj\Debug\Variables.pdb

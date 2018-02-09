@@ -1,0 +1,6 @@
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\Henrique Diniz\Desktop\CSharpAll\Loops\Loops\obj\Debug\Loops.pdb
