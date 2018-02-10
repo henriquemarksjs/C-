@@ -1,0 +1,7 @@
+C:\Users\Henrique Diniz\Desktop\C#\Cases\Cases\bin\Debug\Cases.exe.config
+C:\Users\Henrique Diniz\Desktop\C#\Cases\Cases\bin\Debug\Cases.exe
+C:\Users\Henrique Diniz\Desktop\C#\Cases\Cases\bin\Debug\Cases.pdb
+C:\Users\Henrique Diniz\Desktop\C#\Cases\Cases\obj\Debug\Cases.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Diniz\Desktop\C#\Cases\Cases\obj\Debug\Cases.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Diniz\Desktop\C#\Cases\Cases\obj\Debug\Cases.exe
+C:\Users\Henrique Diniz\Desktop\C#\Cases\Cases\obj\Debug\Cases.pdb
